@@ -1,0 +1,14 @@
+#sessao { 
+    border: solid blue 1px; /*Ordem número 2 -->*/
+}
+.sessao{
+    border: solid yellow 1px; /*Ordem número 3 -->*/
+}
+section {
+    border: solid gray 1px; /*Ordem número 4 -->*/
+}
+.btn-primary {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
